@@ -140,7 +140,9 @@ Or simply open directly in **Google Colab**
 **Praveenkumar Chettiyar**  
 B.Tech Artificial Intelligence  
 GH Raisoni College of Engineering, Nagpur
-  [LinkedIn](www.linkedin.com/in/praveenkumar-chettiyar-8b4a193a9) |  
+
+
+[LinkedIn](www.linkedin.com/in/praveenkumar-chettiyar-8b4a193a9) |
 [GitHub](https://github.com/praveenkumar231205)
 
 ---
