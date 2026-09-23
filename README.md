@@ -8,12 +8,11 @@ recommendations for employee retention.
 
 ## 📁 Project Structure
 
-IBM-HR-Analytics/
-│
-├── 01_eda_and_insights.ipynb # Main EDA Notebook
-├── IBM_HR_dataset.csv # Dataset
-└── README.md # Project Documentation
-
+| File | Description |
+|------|-------------|
+| `01_eda_and_insights.ipynb` | Main EDA Notebook |
+| `IBM_HR_dataset.csv` | Dataset |
+| `README.md` | Project Documentation |
 
 ## 🛠️ Tools & Libraries
 
